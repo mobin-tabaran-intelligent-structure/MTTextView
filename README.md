@@ -3,7 +3,7 @@
 ---
 #### Setup
 * Add it in your root **build.gradle** at the end of repositories:
-```
+```grovy
 allprojects {
     repositories {
         ...
@@ -19,7 +19,7 @@ dependencies {
 ```
 ----
 #### Usage
-```
+```xml
 <ir.mobintabaran.android.widget.textview.MTTextView
 
         android:layout_width="wrap_content"
