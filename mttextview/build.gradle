@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 
-group='com.github.mobin-tabaran-intelligent-structure'
+group='com.github.morteza-j8'
 
 android {
     compileSdkVersion 28
