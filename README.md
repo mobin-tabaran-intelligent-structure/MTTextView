@@ -1,3 +1,3 @@
-### <a href="http://mobintabaran.ir>Mobin Tabaran<\a>TextView
+### [Mobin Tabaran][mt-web-site] TextView
 
-
+[mt-web-site]: http://mobintabaran.ir
