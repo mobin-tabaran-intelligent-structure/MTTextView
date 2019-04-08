@@ -3,7 +3,9 @@ Android <code>TextView</code> fill font from assets
 
 ---
 #### Demo
-![Demo](https://github.com/mobin-tabaran-intelligent-structure/MTTextView/tree/developer/images/mt-textview-image.png)
+<p align="center">
+  <img width="auto" height="300" src="https://github.com/mobin-tabaran-intelligent-structure/MTTextView/tree/developer/images/mt-textview-image.png">
+</p>
 
 ---
 #### Setup
