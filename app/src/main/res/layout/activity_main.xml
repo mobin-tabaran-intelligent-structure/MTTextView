@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
+<LinearLayout
 
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:gravity="center"
+    android:orientation="vertical"
+    >
 
     <ir.mobintabaran.android.widget.textview.MTTextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
 
+        android:padding="15dp"
+
         android:textColor="#6F7FD9"
-        android:textSize="30sp"
-        android:text="Show In MTTextView"
-        app:textFont="fonts/my-font.ttf"
+        android:textSize="45sp"
+        android:text="Death Drow Font"
+        app:textFont="fonts/death-drow.ttf"
 
 
         android:layout_centerInParent="true"
@@ -23,4 +28,39 @@
 
         />
 
-</RelativeLayout>
+    <ir.mobintabaran.android.widget.textview.MTTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:padding="15dp"
+
+        android:textColor="#6F8FD9"
+        android:textSize="30sp"
+        android:text="Prince Of Persia Font"
+        app:textFont="fonts/prince-of-persia.ttf"
+
+
+        android:layout_centerInParent="true"
+
+
+        />
+
+    <ir.mobintabaran.android.widget.textview.MTTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:padding="15dp"
+
+        android:textColor="#6F7FD9"
+        android:textSize="55sp"
+        android:text="Flesh Wound Fount"
+        app:textFont="fonts/flesh-wound.ttf"
+
+
+        android:layout_centerInParent="true"
+
+
+        />
+
+
+</LinearLayout>

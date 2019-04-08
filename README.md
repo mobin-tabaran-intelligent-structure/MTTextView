@@ -1,7 +1,13 @@
 ### [Mobin Tabaran][mt-web-site] TextView
+Android <code>TextView</code> fill font from assets
+
+---
+#### Demo
+![Demo](https://github.com/mobin-tabaran-intelligent-structure/MTTextView/tree/developer/images/mt-textview-image.png)
 
 ---
 #### Setup
+
 * Add it in your root **build.gradle** at the end of repositories:
 ```grovy
 allprojects {
@@ -11,6 +17,8 @@ allprojects {
     }
 }
 ```
+
+
 * Add the dependency:
 ```
 dependencies {
