@@ -1,4 +1,4 @@
-### [Mobin Tabaran][mt-web-site] TextView
+### MTTextView
 Android <code>TextView</code> fill font from assets
 
 ---
